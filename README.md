@@ -7,13 +7,16 @@ Atualmente, estou aprimorando meus conhecimentos em JavaScript e explorando tecn
 
 # Tecnologias e conhecimentos
 
-- Front-end: HTML5, CSS3 e JavaScript
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+          
 
-- Programação: Python e conhecimentos básicos de Java
 
-- Banco de dados: MySQL e SQL
-
-- Ferramentas: Git e GitHub
 
 # Atualmente estudando
 
