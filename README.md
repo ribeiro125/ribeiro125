@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**ribeiro125/ribeiro125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💜 Olá, meu nome é {seu nome}!
+Faça uma breve apresentação sobre você e a sua stack.
 
-Here are some ideas to get you started:
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
+🚀 Minhas Skills
+c Javascript Typescript Nodejs HTML5 CSS Bootstrap React Angular MySQL PostegreSQL
+MongoDB
+
+
+
+⭐ GitHub Stats
+
+GitHub Stats
+
+
